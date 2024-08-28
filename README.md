@@ -3,9 +3,11 @@
 
 The Ransomware is 100% Written in Python language
 > Watch the Tutorial to Fully Understanding the Working of the 404Crypt Ransomware
+</br>
 YouTube Tutorial: https://www.youtube.com/
 </br>
-Google Gmail App Password: https://myaccount.google.com/apppasswords
+Google Gmail App Password For your Email: https://myaccount.google.com/apppasswords
+<h3>App Password of the Email Used for Recieving the Encrypted Key</h3>
 > <h1>DISCLAIMER</h1> 
 > <h5>This Tool Should Only Be Used For Educational & Cryptographical & Testing Purposes . Not for Revenge or Causing Harm</h5>
 > <h5><br><br>Misuse or Illegal Usage of the Tool One will Be solely Be held Responsible for not Obeying Federal & State Laws</h5>
@@ -76,5 +78,13 @@ Google Gmail App Password: https://myaccount.google.com/apppasswords
     <h4>Copy the key file symmetric.pem to a folder in which the 404Crypt.py file is located</h4>
     <h4>Since the file is required it contains the key used for encryption</h4>
     </ol>
-
-
+<br>
+<h2>Changes to make in the 404Crypt.py File</h2>
+<h3>Once the Keys are generate public, private, symmetric they are stored in files </h3>
+<h3>Copy the Symmetric key Stored in the symmetric.pem file to a same directory as the 404Crypt.py file</h3>
+<h3>Edit the 404Crypt.py file at line 19 to hardcode the Public key stored in the public.pem file to the file [Preserve the Format</h3>
+<br>
+<h1>Changing the Attacker's Email</h1>
+<h3>In the Malicious(Encryption class)'s INIT Method </h3>
+<h3>Set: self.mail To the Attacker's Email for recieved a encrypted Key Copy</h3>
+<h3>Set: self.ml_pswd to the app password of the email obtained from: https://myaccount.google.com/apppasswords </h3>
