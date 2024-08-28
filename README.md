@@ -2,13 +2,13 @@
 <h1>By the1%</h1>
 
 The Ransomware is 100% Written in Python language
-Watch the Tutorial to Fully Understanding the Working of the 404Crypt Ransomware
+>Watch the Tutorial to Fully Understanding the Working of the 404Crypt Ransomware
 </br>
-YouTube Tutorial: https://www.youtube.com/
+>YouTube Tutorial: https://www.youtube.com/
 </br>
-Google Gmail App Password For your Email: https://myaccount.google.com/apppasswords
-<h3>App Password of the Email Used for Recieving the Encrypted Key</h3>
-
+>Google Gmail App Password For your Email: https://myaccount.google.com/apppasswords
+><h3>App Password of the Email Used for Recieving the Encrypted Key</h3>
+<br>
 > <h1>DISCLAIMER</h1> 
 > <h5>This Tool Should Only Be Used For Educational & Cryptographical & Testing Purposes . Not for Revenge or Causing Harm</h5>
 > <h5><br><br>Misuse or Illegal Usage of the Tool One will Be solely Be held Responsible for not Obeying Federal & State Laws</h5>
